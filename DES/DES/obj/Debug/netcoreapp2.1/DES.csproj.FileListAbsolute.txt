@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\DES\DES\bin\Debug\netcoreapp2.1\DES.deps.json
+C:\Users\User\Source\Repos\DES\DES\bin\Debug\netcoreapp2.1\DES.runtimeconfig.json
+C:\Users\User\Source\Repos\DES\DES\bin\Debug\netcoreapp2.1\DES.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\DES\DES\bin\Debug\netcoreapp2.1\DES.dll
+C:\Users\User\Source\Repos\DES\DES\bin\Debug\netcoreapp2.1\DES.pdb
+C:\Users\User\Source\Repos\DES\DES\obj\Debug\netcoreapp2.1\DES.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\DES\DES\obj\Debug\netcoreapp2.1\DES.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\DES\DES\obj\Debug\netcoreapp2.1\DES.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\DES\DES\obj\Debug\netcoreapp2.1\DES.AssemblyInfo.cs
+C:\Users\User\Source\Repos\DES\DES\obj\Debug\netcoreapp2.1\DES.dll
+C:\Users\User\Source\Repos\DES\DES\obj\Debug\netcoreapp2.1\DES.pdb
