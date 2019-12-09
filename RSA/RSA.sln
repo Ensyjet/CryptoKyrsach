@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSA", "RSA\RSA.csproj", "{9A46A98C-FF12-4B4E-AB39-283EAC909068}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Signature", "Signature\Signature.csproj", "{C7A516FD-6540-4489-81EB-010D037BF22C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DopLibrary", "ClassLibrary1\DopLibrary.csproj", "{2309E9A1-D228-41FD-A9CE-E6802171ABA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A46A98C-FF12-4B4E-AB39-283EAC909068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A46A98C-FF12-4B4E-AB39-283EAC909068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A46A98C-FF12-4B4E-AB39-283EAC909068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A46A98C-FF12-4B4E-AB39-283EAC909068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7A516FD-6540-4489-81EB-010D037BF22C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A516FD-6540-4489-81EB-010D037BF22C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A516FD-6540-4489-81EB-010D037BF22C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A516FD-6540-4489-81EB-010D037BF22C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2309E9A1-D228-41FD-A9CE-E6802171ABA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2309E9A1-D228-41FD-A9CE-E6802171ABA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2309E9A1-D228-41FD-A9CE-E6802171ABA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2309E9A1-D228-41FD-A9CE-E6802171ABA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F68BA8BC-AAAA-4E7F-97F7-9CC337A4722A}
+	EndGlobalSection
+EndGlobal

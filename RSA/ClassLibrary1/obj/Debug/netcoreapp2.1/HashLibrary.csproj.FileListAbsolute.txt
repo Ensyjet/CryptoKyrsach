@@ -1,0 +1,9 @@
+C:\Users\User\Source\Repos\RSA\ClassLibrary1\bin\Debug\netcoreapp2.1\HashLibrary.deps.json
+C:\Users\User\Source\Repos\RSA\ClassLibrary1\bin\Debug\netcoreapp2.1\HashLibrary.dll
+C:\Users\User\Source\Repos\RSA\ClassLibrary1\bin\Debug\netcoreapp2.1\HashLibrary.pdb
+C:\Users\User\Source\Repos\RSA\ClassLibrary1\obj\Debug\netcoreapp2.1\HashLibrary.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\RSA\ClassLibrary1\obj\Debug\netcoreapp2.1\HashLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\RSA\ClassLibrary1\obj\Debug\netcoreapp2.1\HashLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\RSA\ClassLibrary1\obj\Debug\netcoreapp2.1\HashLibrary.AssemblyInfo.cs
+C:\Users\User\Source\Repos\RSA\ClassLibrary1\obj\Debug\netcoreapp2.1\HashLibrary.dll
+C:\Users\User\Source\Repos\RSA\ClassLibrary1\obj\Debug\netcoreapp2.1\HashLibrary.pdb

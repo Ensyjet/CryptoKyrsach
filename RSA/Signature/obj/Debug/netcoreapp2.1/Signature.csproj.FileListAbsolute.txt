@@ -1,0 +1,14 @@
+C:\Users\User\Source\Repos\RSA\Signature\bin\Debug\netcoreapp2.1\Signature.deps.json
+C:\Users\User\Source\Repos\RSA\Signature\bin\Debug\netcoreapp2.1\Signature.runtimeconfig.json
+C:\Users\User\Source\Repos\RSA\Signature\bin\Debug\netcoreapp2.1\Signature.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\RSA\Signature\bin\Debug\netcoreapp2.1\Signature.dll
+C:\Users\User\Source\Repos\RSA\Signature\bin\Debug\netcoreapp2.1\Signature.pdb
+C:\Users\User\Source\Repos\RSA\Signature\obj\Debug\netcoreapp2.1\Signature.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\RSA\Signature\obj\Debug\netcoreapp2.1\Signature.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\RSA\Signature\obj\Debug\netcoreapp2.1\Signature.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\RSA\Signature\obj\Debug\netcoreapp2.1\Signature.AssemblyInfo.cs
+C:\Users\User\Source\Repos\RSA\Signature\obj\Debug\netcoreapp2.1\Signature.csproj.CopyComplete
+C:\Users\User\Source\Repos\RSA\Signature\obj\Debug\netcoreapp2.1\Signature.dll
+C:\Users\User\Source\Repos\RSA\Signature\obj\Debug\netcoreapp2.1\Signature.pdb
+C:\Users\User\Source\Repos\RSA\Signature\bin\Debug\netcoreapp2.1\DopLibrary.dll
+C:\Users\User\Source\Repos\RSA\Signature\bin\Debug\netcoreapp2.1\DopLibrary.pdb

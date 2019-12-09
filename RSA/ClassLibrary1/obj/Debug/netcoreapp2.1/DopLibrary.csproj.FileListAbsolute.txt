@@ -1,0 +1,9 @@
+C:\Users\User\Source\Repos\RSA\ClassLibrary1\bin\Debug\netcoreapp2.1\DopLibrary.deps.json
+C:\Users\User\Source\Repos\RSA\ClassLibrary1\bin\Debug\netcoreapp2.1\DopLibrary.dll
+C:\Users\User\Source\Repos\RSA\ClassLibrary1\bin\Debug\netcoreapp2.1\DopLibrary.pdb
+C:\Users\User\Source\Repos\RSA\ClassLibrary1\obj\Debug\netcoreapp2.1\DopLibrary.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\RSA\ClassLibrary1\obj\Debug\netcoreapp2.1\DopLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\RSA\ClassLibrary1\obj\Debug\netcoreapp2.1\DopLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\RSA\ClassLibrary1\obj\Debug\netcoreapp2.1\DopLibrary.AssemblyInfo.cs
+C:\Users\User\Source\Repos\RSA\ClassLibrary1\obj\Debug\netcoreapp2.1\DopLibrary.dll
+C:\Users\User\Source\Repos\RSA\ClassLibrary1\obj\Debug\netcoreapp2.1\DopLibrary.pdb
