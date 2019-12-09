@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Hash\Hash\obj\Debug\netcoreapp2.1\Hash.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Hash\Hash\obj\Debug\netcoreapp2.1\Hash.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Hash\Hash\obj\Debug\netcoreapp2.1\Hash.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Hash\Hash\obj\Debug\netcoreapp2.1\Hash.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Hash\Hash\bin\Debug\netcoreapp2.1\Hash.deps.json
+C:\Users\User\Source\Repos\Hash\Hash\bin\Debug\netcoreapp2.1\Hash.runtimeconfig.json
+C:\Users\User\Source\Repos\Hash\Hash\bin\Debug\netcoreapp2.1\Hash.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Hash\Hash\bin\Debug\netcoreapp2.1\Hash.dll
+C:\Users\User\Source\Repos\Hash\Hash\bin\Debug\netcoreapp2.1\Hash.pdb
+C:\Users\User\Source\Repos\Hash\Hash\obj\Debug\netcoreapp2.1\Hash.dll
+C:\Users\User\Source\Repos\Hash\Hash\obj\Debug\netcoreapp2.1\Hash.pdb
