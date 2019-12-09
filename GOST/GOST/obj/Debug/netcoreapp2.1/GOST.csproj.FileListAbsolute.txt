@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\GOST\GOST\bin\Debug\netcoreapp2.1\GOST.deps.json
+C:\Users\User\Source\Repos\GOST\GOST\bin\Debug\netcoreapp2.1\GOST.runtimeconfig.json
+C:\Users\User\Source\Repos\GOST\GOST\bin\Debug\netcoreapp2.1\GOST.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\GOST\GOST\bin\Debug\netcoreapp2.1\GOST.dll
+C:\Users\User\Source\Repos\GOST\GOST\bin\Debug\netcoreapp2.1\GOST.pdb
+C:\Users\User\Source\Repos\GOST\GOST\obj\Debug\netcoreapp2.1\GOST.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\GOST\GOST\obj\Debug\netcoreapp2.1\GOST.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\GOST\GOST\obj\Debug\netcoreapp2.1\GOST.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\GOST\GOST\obj\Debug\netcoreapp2.1\GOST.AssemblyInfo.cs
+C:\Users\User\Source\Repos\GOST\GOST\obj\Debug\netcoreapp2.1\GOST.dll
+C:\Users\User\Source\Repos\GOST\GOST\obj\Debug\netcoreapp2.1\GOST.pdb
